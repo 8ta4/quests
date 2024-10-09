@@ -2,223 +2,279 @@
     Will a startup that starts with good people, makes something customers actually want, and spends as little money as possible probably succeed?
   answer: |
     to start with good people, to make something customers actually want, and to spend as little money as possible. Most startups that fail do it because they fail at one of these. A startup that does all three will probably succeed.
+  yes: true
 - question: |
     Is getting rich easy?
   answer: |
     getting rich is doable too. Hard, but doable.
+  yes: false
 - question: |
     Do you need a brilliant idea to start a startup?
   answer: |
     you don't need a brilliant idea to start a startup around.
+  yes: false
 - question: |
     Are there other areas as backward as search was before Google?
   answer: |
     There are plenty of other areas that are just as backward as search was before Google.
+  yes: true
 - question: |
     Did Microsoft's original plan involve selling programming languages?
   answer: |
     Microsoft's original plan was to make money selling programming languages, of all things.
+  yes: true
 - question: |
     Are ideas for startups transferrable?
   answer: |
     Ideas for startups are worth something, certainly, but the trouble is, they're not transferrable. They're not something you could hand to someone else to execute.
+  yes: false
 - question: |
     Can good people fix bad ideas?
   answer: |
     Good people can fix bad ideas, but good ideas can't save bad people.
+  yes: true
 - question: |
     Are genuinely smart people more likely to admit ignorance?
   answer: |
     So as a rule you can recognize genuinely smart people by their ability to say things like "I don't know," "Maybe you're right," and "I don't understand x well enough."
+  yes: true
 - question: |
     Do startups often start around universities?
   answer: |
     It's no coincidence that startups start around universities, because that's where smart people meet.
+  yes: true
 - question: |
     Should you make a conscious effort to schmooze in college?
   answer: |
     Don't make a conscious effort to schmooze; that doesn't work well with hackers.
+  yes: false
 - question: |
     Can a single founder easily bear the moral weight of starting a company?
   answer: |
     One person would find the moral weight of starting a company hard to bear.
+  yes: false
 - question: |
     Should founders of a technology startup include technical people?
   answer: |
     the founders should include technical people.
+  yes: true
 - question: |
     Are business people good at deciding what to do with technology?
   answer: |
     Business people are bad at deciding what to do with technology, because they don't know what the options are, or which kinds of problems are hard and which are easy.
+  yes: false
 - question: |
     Do the founders of a startup have to include business people?
   answer: |
     Do the founders of a startup have to include business people? That depends. We thought so when we started ours, and we asked several people who were said to know about this mysterious thing called "business" if they would be the president. But they all said no, so I had to do it myself.
+  yes: false
 - question: |
     Can business be learned without extensive study?
   answer: |
     And what I discovered was that business was no great mystery. It's not something like physics or medicine that requires extensive study.
+  yes: true
 - question: |
     Are most of the top Forbes 400 individuals with MBAs?
   answer: |
     If you work your way down the Forbes 400 making an x next to the name of each person with an MBA, you'll learn something important about business school. After Warren Buffett, you don't hit another MBA till number 22, Phil Knight, the CEO of Nike. There are only 5 MBAs in the top 50.
+  yes: false
 - question: |
     Does programming knowledge prevent hackers from understanding users?
   answer: |
     There's nothing about knowing how to program that prevents hackers from understanding users, or about not knowing how to program that magically enables business people to understand them.
+  yes: false
 - question: |
     Do most businesses fail because they don't give customers what they want?
   answer: |
     I think most businesses that fail do it because they don't give customers what they want.
+  yes: true
 - question: |
     Do restaurants with great food tend to prosper no matter what?
   answer: |
     Restaurants with great food seem to prosper no matter what.
+  yes: true
 - question: |
     Is the real problem in nearly every failed startup that customers didn't want the product?
   answer: |
     In nearly every failed startup, the real problem was that customers didn't want the product.
+  yes: true
 - question: |
     Is rapid prototyping the right way to write software for a startup?
   answer: |
     As a Lisp hacker, I come from the tradition of rapid prototyping. I would not claim (at least, not here) that this is the right way to write every program, but it's certainly the right way to write software for a startup.
+  yes: true
 - question: |
     Does a 10% improvement in ease of use typically result in a 10% increase in sales?
   answer: |
     A 10% improvement in ease of use doesn't just increase your sales 10%. It's more likely to double your sales.
+  yes: false
 - question: |
     Are trade shows effective for acquiring new customers?
   answer: |
     Trade shows didn't pay as a way of getting new customers, but they were worth it as market research.
+  yes: false
 - question: |
     Are the best startup opportunities in niche markets?
   answer: |
     The best odds are in niche markets. Since startups make money by offering people something better than they had before, the best opportunities are where things suck most.
+  yes: true
 - question: |
     Is it easier to sell software to smaller companies?
   answer: |
     Start by writing software for smaller companies, because it's easier to sell to them.
+  yes: true
 - question: |
     Does the high end of technology overtake the low end?
   answer: |
     In technology, the low end always eats the high end. It's easier to make an inexpensive product more powerful than to make a powerful product cheaper.
+  yes: false
 - question: |
     Do products that start as inexpensive options tend to grow more powerful over time?
   answer: |
     So the products that start as cheap, simple options tend to gradually grow more powerful till, like water rising in a room, they squash the "high-end" products against the ceiling.
+  yes: true
 - question: |
     Is it safe to let competitors offer a cheaper, easier product?
   answer: |
     It's very dangerous to let anyone fly under you. If you have the cheapest, easiest product, you'll own the low end. And if you don't, you're in the crosshairs of whoever does.
+  yes: false
 - question: |
     Is it wise to take money from investors?
   answer: |
     I think it's wise to take money from investors.
+  yes: true
 - question: |
     Is switching from a consulting company to a product company easy?
   answer: |
     To be self-funding, you have to start as a consulting company, and it's hard to switch from that to a product company.
+  yes: false
 - question: |
     Is a startup financially like a pass/fail course?
   answer: |
     Financially, a startup is like a pass/fail course.
+  yes: true
 - question: |
     Should you maximize the amount of stock you retain to get rich from a startup?
   answer: |
     The way to get rich from a startup is to maximize the company's chances of succeeding, not to maximize the amount of stock you retain.
+  yes: false
 - question: |
     Is seed capital usually obtained from venture capital firms?
   answer: |
     Usually you get seed money from individual rich people called "angels."
+  yes: false
 - question: |
     Does raising seed capital require an elaborate business plan?
   answer: |
     At the seed stage, investors don't expect you to have an elaborate business plan.
+  yes: false
 - question: |
     Is it safe to delay incorporating a startup?
   answer: |
     It can be dangerous to delay turning yourself into a company, because one or more of the founders might decide to split off and start another company doing the same thing.
+  yes: false
 - question: |
     Are rich people generally looking for good investments?
   answer: |
     Most rich people are looking for good investments.
+  yes: true
 - question: |
     Is there a rational way to determine a startup's initial valuation?
   answer: |
     There is no rational way. At this stage the company is just a bet.
+  yes: false
 - question: |
     Do venture capital investments usually involve smaller amounts of money than angel investments?
   answer: |
     The amounts of money involved are larger, millions usually.
+  yes: false
 - question: |
     Should startups be completely open with VCs about their ideas?
   answer: |
     I think the best plan is not to be overtly secretive, but not to tell them everything either.
+  yes: false
 - question: |
     Is it beneficial to talk to VCs if you don't want their money?
   answer: |
     Talk to as many VCs as you can, even if you don't want their money, because a) they may be on the board of someone who will buy you, and b) if you seem impressive, they'll be discouraged from investing in your competitors.
+  yes: true
 - question: |
     Should startups spend their initial funding quickly?
   answer: |
     When and if you get an infusion of real money from investors, what should you do with it? Not spend it, that's what.
+  yes: false
 - question: |
     Is brand value highly important in the search engine business?
   answer: |
     But as the founders of Google knew, brand is worth next to nothing in the search business.
+  yes: false
 - question: |
     Did Google use advertising when they started?
   answer: |
     As if to emphasize the point, Google never did any advertising.
+  yes: false
 - question: |
     Did Yahoo understand search when Google appeared?
   answer: |
     Yahoo didn't understand search.
+  yes: false
 - question: |
     Should startups prioritize advertisers over users?
   answer: |
     The most important is that you should put users before advertisers, even though the advertisers are paying and users aren't.
+  yes: false
 - question: |
     Is spending money slowly beneficial for startups?
   answer: |
     I say "get big slow." The slower you burn through your funding, the more time you have to learn.
+  yes: true
 - question: |
     Should startups aim to be expensive and impressive rather than cool and cheap?
   answer: |
     Aim for cool and cheap, not expensive and impressive.
+  yes: false
 - question: |
     Are corporate office spaces ideal for software development?
   answer: |
     An apartment is also the right kind of place for developing software. Cube farms suck for that, as you've probably discovered if you've tried it.
+  yes: false
 - question: |
     Should startups use professional-looking office spaces initially?
   answer: |
     I'd advise most startups to avoid corporate space at first and just rent an apartment.
+  yes: false
 - question: |
     Does a larger number of employees make a company more impressive?
   answer: |
     If two companies have the same revenues, it's the one with fewer employees that's more impressive.
+  yes: false
 - question: |
     Should you experience working in an existing business before starting your own?
   answer: |
     you need to see what it's like in an existing business before you try running your own.
+  yes: true
 - question: |
     Are negative lessons valuable in business?
   answer: |
     But negative lessons are just as valuable as positive ones. Perhaps even more valuable: it's hard to repeat a brilliant performance, but it's straightforward to avoid errors.
+  yes: true
 - question: |
     Do venture capitalists trust individuals under 23 to start a company?
   answer: |
     VCs won't trust you, and will try to reduce you to a mascot as a condition of funding.
+  yes: false
 - question: |
     Is a startup financially risky?
   answer: |
     Also, startups are a big risk financially. If you try something that blows up and leaves you broke at 26, big deal; a lot of 26 year olds are broke.
+  yes: true
 - question: |
     Is the amount of bullshit in a startup more than in ordinary working life?
   answer: |
     I don't think the amount of bullshit you have to deal with in a startup is more than you'd endure in an ordinary working life. It's probably less, in fact; it just seems like a lot because it's compressed into a short period.
+  yes: false
 - question: |
     Are grad students suitable candidates for starting software startups?
   answer: |
     Grad students are just the age, and just the sort of people, to start software startups.
+  yes: true
