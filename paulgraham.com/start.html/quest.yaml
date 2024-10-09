@@ -29,10 +29,10 @@
     Ideas for startups are worth something, certainly, but the trouble is, they're not transferrable. They're not something you could hand to someone else to execute.
   yes: false
 - question: |
-    Can good people fix bad ideas?
+    Can good ideas save bad people?
   answer: |
     Good people can fix bad ideas, but good ideas can't save bad people.
-  yes: true
+  yes: false
 - question: |
     Are genuinely smart people more likely to admit ignorance?
   answer: |
@@ -71,7 +71,7 @@
 - question: |
     Can business be learned without extensive study?
   answer: |
-    And what I discovered was that business was no great mystery. It's not something like physics or medicine that requires extensive study.
+    what I discovered was that business was no great mystery. It's not something like physics or medicine that requires extensive study.
   yes: true
 - question: |
     Are most of the top Forbes 400 individuals with MBAs?
@@ -104,11 +104,6 @@
     As a Lisp hacker, I come from the tradition of rapid prototyping. I would not claim (at least, not here) that this is the right way to write every program, but it's certainly the right way to write software for a startup.
   yes: true
 - question: |
-    Does a 10% improvement in ease of use typically result in a 10% increase in sales?
-  answer: |
-    A 10% improvement in ease of use doesn't just increase your sales 10%. It's more likely to double your sales.
-  yes: false
-- question: |
     Are trade shows effective for acquiring new customers?
   answer: |
     Trade shows didn't pay as a way of getting new customers, but they were worth it as market research.
@@ -119,10 +114,10 @@
     The best odds are in niche markets. Since startups make money by offering people something better than they had before, the best opportunities are where things suck most.
   yes: true
 - question: |
-    Is it easier to sell software to smaller companies?
+    Is it easier to sell software to bigger companies?
   answer: |
     Start by writing software for smaller companies, because it's easier to sell to them.
-  yes: true
+  yes: false
 - question: |
     Does the high end of technology overtake the low end?
   answer: |
@@ -169,11 +164,6 @@
     At the seed stage, investors don't expect you to have an elaborate business plan.
   yes: false
 - question: |
-    Is it safe to delay incorporating a startup?
-  answer: |
-    It can be dangerous to delay turning yourself into a company, because one or more of the founders might decide to split off and start another company doing the same thing.
-  yes: false
-- question: |
     Are rich people generally looking for good investments?
   answer: |
     Most rich people are looking for good investments.
@@ -186,7 +176,7 @@
 - question: |
     Do venture capital investments usually involve smaller amounts of money than angel investments?
   answer: |
-    The amounts of money involved are larger, millions usually.
+    Getting money from an actual VC firm is a bigger deal than getting money from angels. The amounts of money involved are larger, millions usually.
   yes: false
 - question: |
     Should startups be completely open with VCs about their ideas?
@@ -261,12 +251,12 @@
 - question: |
     Do venture capitalists trust individuals under 23 to start a company?
   answer: |
-    VCs won't trust you, and will try to reduce you to a mascot as a condition of funding.
+    The other reason it's hard to start a company before 23 is that people won't take you seriously. VCs won't trust you, and will try to reduce you to a mascot as a condition of funding.
   yes: false
 - question: |
     Is a startup financially risky?
   answer: |
-    Also, startups are a big risk financially. If you try something that blows up and leaves you broke at 26, big deal; a lot of 26 year olds are broke.
+    startups are a big risk financially. If you try something that blows up and leaves you broke at 26, big deal; a lot of 26 year olds are broke.
   yes: true
 - question: |
     Is the amount of bullshit in a startup more than in ordinary working life?
