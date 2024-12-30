@@ -214,11 +214,6 @@
     The most important is that you should put users before advertisers, even though the advertisers are paying and users aren't.
   yes: false
 - question: |
-    Is spending money slowly beneficial for startups?
-  answer: |
-    I say "get big slow." The slower you burn through your funding, the more time you have to learn.
-  yes: true
-- question: |
     Should startups aim to be expensive and impressive rather than cool and cheap?
   answer: |
     Aim for cool and cheap, not expensive and impressive.
