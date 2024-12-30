@@ -11,7 +11,7 @@
 - question: |
     Should you read the entire email communication history with that prospect before you call him?
   answer: |
-   Don’t read the entire email communication history with that prospect before you call him.
+    Don’t read the entire email communication history with that prospect before you call him.
   yes: false
 - question: |
     Should you avoid being direct?
