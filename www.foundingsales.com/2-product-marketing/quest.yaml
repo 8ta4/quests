@@ -1,0 +1,113 @@
+- question: |
+    Should sales narratives be treated as unchangeable once created?
+  answer: |
+    There will be a circular feedback loop between the product narrative and your sales narrative as it meets the market and either fails, succeeds, or does a little of both. So this shouldn’t be looked at as something set in stone, but rather as a hypothesis that will change over time.
+  yes: false
+
+- question: |
+    Should you continue pitching if someone disagrees with your problem framing?
+  answer: |
+    If someone disagrees with your framing of the problem, great, it’s the first thing you’ve discussed; you can focus on that (or end the interaction), rather than rehearsing other parts of your pitch that are not relevant.
+  yes: false
+
+- question: |
+    Can there be multiple stakeholders responsible for solving a business problem?
+  answer: |
+    There can be more than one person, and generally as an organization gets larger what might have been the problem of one person, or a slice of a person, becomes the distributed problem of more people.
+  yes: true
+
+- question: |
+    Should you target stakeholders who control the budget for solving the problem?
+  answer: |
+    A good rule of thumb for targeting the right stakeholders is to look for the person who has control of the budgetary resources allotted to resolve the pain point you solve.
+  yes: true
+
+- question: |
+    Can service providers be a viable solution for organizations?
+  answer: |
+    Solving a business pain with a professional service could be a totally viable solution for the organization in question, but it will have downsides.
+  yes: true
+
+- question: |
+    Is cost typically a downside of using service providers?
+  answer: |
+    Cost will typically be one of those downsides, in that service providers need to make a margin for their businesses to be successful.
+  yes: true
+
+- question: |
+    Do most founders generally have strong market and product intimacy?
+  answer: |
+    Conveniently, for most founders this should be pretty easy; they will generally have strong market and product intimacy.
+  yes: true
+
+- question: |
+    Does every piece of marketing collateral build on the part before?
+  answer: |
+    As you can see, each part of the narrative builds on the part before. This will be true for every piece of marketing collateral you produce—messaging, email and web copy, slide decks, and so on.
+  yes: true
+
+- question: |
+    Should you charge money for their products even at the outset?
+  answer: |
+    First, I think it's important to charge, even at the outset. If you don't charge, people won't take you seriously or think hard about whether your solution provides them value. They also likely won't use the solution. It's no skin off their backs, and they're not paying for it, so why should they invest time in it?
+  yes: true
+
+- question: |
+    Should you stick with low pricing forever?
+  answer: |
+    This doesn’t mean that you’ll stick with lowish pricing forever.
+  yes: false
+
+- question: |
+    Should early customers who got lower prices be forced to pay new, higher prices?
+  answer: |
+    Once you start to raise prices, don’t worry about those early customers that you have at 20% or 50% of your eventual pricing; there are tens of thousands of other customers in the world that will pay full price. Just grandfather those existing folks in and thank them for their early votes of confidence.
+  yes: false
+
+- question: |
+    Can pricing be used as an incentive to get customers to buy sooner?
+  answer: |
+    In fact, this can be a means by which to get people to jump and buy now: “Well, it’s five hundred a month right now, but as we add functionality, that may go up. Of course, if you buy now, you would be grandfathered in at that price.”
+  yes: true
+
+- question: |
+    Is early-stage pricing more of an art than a science?
+  answer: |
+    In terms of taking early shots at pricing, there are a couple of ways to think about it. It’s more art than science early on, and you’ll typically blend a number of data points together.
+  yes: true
+
+- question: |
+    Should you create both pricing and technical innovations simultaneously?
+  answer: |
+    Your solution is likely a better way of doing things via some sort of technical innovation; trying to do pricing innovation at the same time is often a distraction. One innovation at a time, please.
+  yes: false
+
+- question: |
+    Is pricing meant to change on a customer-by-customer basis in ROI pricing?
+  answer: |
+    Another, more advanced, way to do pricing is known as “ROI pricing.” That is, determining the amount of value you expect to provide for the prospect and setting your price to capture some of that value. That’s not to say that pricing would change on a customer-by-customer basis necessarily (that adds unnecessary complication).
+  yes: false
+
+- question: |
+    Will pricing too high hurt your win rates?
+  answer: |
+    Pricing too high will work against you in a number of ways. First, it will hurt your win rates. A prospect can totally be on board with the pain you’re solving and believe that you will solve it for them, but if you are charging so much that they don’t believe that the ratio of pain solved to money paid is in balance, they won’t buy.
+  yes: true
+
+- question: |
+    Should you avoid pricing too high to ensure prospects feel they are getting sufficient value?
+  answer: |
+    pricing too high will work against you in a number of ways. First, it will hurt your win rates. A prospect can totally be on board with the pain you’re solving and believe that you will solve it for them, but if you are charging so much that they don’t believe that the ratio of pain solved to money paid is in balance, they won’t buy.
+  yes: true
+
+- question: |
+    Do you want prospects to easily agree to your pricing?
+  answer: |
+    You don’t want prospects to say “Oh, that’s easy, sure” when you tell them pricing, because then you’re leaving money on the table.
+  yes: false
+
+- question: |
+    Is pricing an iterative process?
+  answer: |
+    Pricing is an iterative process where you learn more about what parts of your product matter, and how much, over time.
+  yes: true
